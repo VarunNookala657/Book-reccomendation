@@ -6,9 +6,6 @@ This repository contains a simple book recommendation system that uses collabora
 - Recommends books based on similarity scores.
 - Uses a cosine similarity matrix to find relationships between books.
 
-## Demo
-*(Include a screenshot or GIF of your app here)*
-
 ## Getting Started
 
 ### Prerequisites
